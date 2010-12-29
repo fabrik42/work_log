@@ -46,7 +46,7 @@ Per default, the entries are saved in your home directory:
 
     ~/work_log.yml
 
-But you can change location of the saved file by creating a file called +.work_log_gem+ in your home directory.
+But you can change location of the saved file by creating a file called <tt>.work_log_gem</tt> in your home directory.
 
     touch ~/.work_log_gem
 
