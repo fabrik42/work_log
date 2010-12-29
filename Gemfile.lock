@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    work_log (0.0.2)
+      chronic (>= 0.3.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    chronic (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chronic (>= 0.3.0)
+  work_log!
